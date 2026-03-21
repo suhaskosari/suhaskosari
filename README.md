@@ -32,19 +32,19 @@ Focused on delivering efficient, real-world solutions with MLOps, automation, an
 
 ---
 
-### 🧠 &nbsp;Tech Stack
+## 🧠 &nbsp;Tech Stack
 
 <div align="center">
 
 **AI / ML**
 
-[![My Skills](https://skillicons.dev/icons?i=MachineLearning,GenerativeAI,RAG,MLOps&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&perline=4)](https://skillicons.dev)
 
 <br/>
 
 **Frameworks & Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=langchain,langgraph,fastapi,openaiapi&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=fastapi,flask,nodejs,git&perline=4)](https://skillicons.dev)
 
 <br/>
 
@@ -56,7 +56,7 @@ Focused on delivering efficient, real-world solutions with MLOps, automation, an
 
 **Data Engineering**
 
-[![My Skills](https://skillicons.dev/icons?i=postgresql,etl,pipelines,chromadb,faiss&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,redis,kafka&perline=4)](https://skillicons.dev)
 
 </div>
 
