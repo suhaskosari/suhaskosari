@@ -44,19 +44,19 @@ Focused on delivering efficient, real-world solutions with MLOps, automation, an
 
 **Frameworks & Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=LangChain,LangGraph,FastAPI,OpenAIAPI&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=langchain,langgraph,fastapi,openaiapi&perline=4)](https://skillicons.dev)
 
 <br/>
 
 **Cloud & DevOps**
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,Docker,GitHubActions&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,githubactions&perline=4)](https://skillicons.dev)
 
 <br/>
 
 **Data Engineering**
 
-[![My Skills](https://skillicons.dev/icons?i=PostgreSQL,ETL,Pipelines,ChromaDB,FAISS&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgresql,etl,pipelines,chromadb,faiss&perline=4)](https://skillicons.dev)
 
 </div>
 
