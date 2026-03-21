@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Suhas+Kosari" alt="Name" />
 
  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=00C896&center=true&vCenter=true&width=700&lines=AI+and+ML+Engineer;Generative+AI+|+RAG+Pipelines+|+Multi-Agent+Systems+|+MLOps+|+Cloud+Native;Building+things+that+hold+up+at+3am" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=00C896&center=true&vCenter=true&width=700&lines=AI+and+ML+Engineer;Generative+AI+|+RAG+Pipelines+|+MLOps+|+Cloud+Native;Building+things+that+hold+up+at+3am" />
 </p>
 
 <br/>
