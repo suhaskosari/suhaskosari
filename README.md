@@ -50,7 +50,7 @@ Focused on delivering efficient, real-world solutions with MLOps, automation, an
 
 **Cloud & DevOps**
 
-[![My Skills](https://skillicons.dev/icons?i=aws,GCP,Docker,GitHubActions&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,Docker,GitHubActions&perline=4)](https://skillicons.dev)
 
 <br/>
 
