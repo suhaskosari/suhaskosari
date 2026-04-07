@@ -88,6 +88,21 @@ Developed a recommendation system using collaborative filtering enhanced with LL
 
 
 </td>
+<tr>
+<td width="52%" valign="top">
+
+#### &nbsp;🔬 Multi-Agent Research Assistant
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/suhaskosari/research-agent)
+[![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square&logoColor=white)](https://github.com/suhaskosari/research-agent)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://github.com/suhaskosari/research-agent)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://github.com/suhaskosari/research-agent)
+
+Autonomous research agent that browses the web, searches ArXiv papers, executes code, and remembers context across sessions. Built with LangGraph state machine, FastAPI SSE streaming, and visible reasoning trace in real time.
+
+**→ [View Repository](https://github.com/suhaskosari/research-agent)**
+
+</td>
 </tr>
 </table>
 
