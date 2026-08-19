@@ -1,5 +1,24 @@
 <div align="center">
 
+<h3><code>suhas@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="890" />
+
+<br><br>
+
+<h3><code>suhas@github ~ $ whoami</code></h3>
+<table>
+  <tr>
+    <td valign="top"><img src="./suhas-ascii.svg" width="370" /></td>
+    <td valign="top"><img src="./info-card.svg" width="520" /></td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Suhas+Kosari" alt="Name" />
 
  <p align="center">
@@ -7,6 +26,8 @@
 </p>
 
 <br/>
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhaskosari/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kosarisuhas03@gmail.com)
@@ -105,20 +126,6 @@ Autonomous research agent that browses the web, searches ArXiv papers, executes 
 </td>
 </tr>
 </table>
-
-<br/>
-
----
-
-### 📊 &nbsp;Activity
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=suhaskosari&theme=transparent&hide_border=true&stroke=21262d&ring=00C896&fire=00C896&currStreakLabel=00C896&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&background=00000000)](https://github.com/suhaskosari)
-
-[![Suhas's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suhaskosari&bg_color=0d1117&color=00C896&line=00C896&point=ffffff&area=true&area_color=00C89620&hide_border=true)](https://github.com/suhaskosari)
-
-</div>
 
 <br/>
 
