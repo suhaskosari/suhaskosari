@@ -125,6 +125,20 @@ Autonomous research agent that browses the web, searches ArXiv papers, executes 
 
 </td>
 </tr>
+<tr>
+<td width="52%" valign="top">
+
+#### &nbsp;🧮 GPT From Scratch
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/suhaskosari/gpt-from-scratch)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://github.com/suhaskosari/gpt-from-scratch)
+
+A decoder-only transformer and BPE tokenizer built from primitive PyTorch tensor ops — no `nn.MultiheadAttention`, no `tokenizers`/`tiktoken`. Implements multi-head causal self-attention, the pre-norm transformer block, and autoregressive sampling by hand, trained end-to-end on Tiny Shakespeare.
+
+**→ [View Repository](https://github.com/suhaskosari/gpt-from-scratch)**
+
+</td>
+</tr>
 </table>
 
 <br/>
